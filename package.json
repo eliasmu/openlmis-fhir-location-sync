@@ -1,0 +1,16 @@
+{
+  "name": "openlmis-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "require": "^2.4.20",
+    "sync-request": "^6.0.0"
+  }
+}
